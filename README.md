@@ -10,5 +10,5 @@ The CSV files are processed dataset obtained from the supplementary table of the
 
 ### R Script
 
-CRC_QMP.R script takes the CSV files as input and makes a TreeSummarizedExperiment object and saves it as a .RDS file.
+CRC_QMP.R script takes the CSV files as input and makes a TreeSummarizedExperiment object and saves it as a .rds file.
 
