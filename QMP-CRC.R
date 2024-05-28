@@ -3,8 +3,6 @@ library(mia)
 library(stringr)
 library(S4Vectors)
 
-### Set Working Directory ###
-setwd("C:/Users/shadm/Desktop/CRC_QMP_example_data")
 
 ### Defining FILE PATHS ###
 path_to_assay <- "CRC_assay.csv"
