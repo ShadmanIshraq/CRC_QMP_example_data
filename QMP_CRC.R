@@ -43,5 +43,5 @@ tse <- TreeSummarizedExperiment(
   rowData = CRC_rowdata
 )
 
-### SAVE into RDS ###
-saveRDS(tse, file = "CRCtse.rds")
+### SAVE into RDA ###
+save(tse, file = "CRCtse.rda")
