@@ -2,7 +2,7 @@
 
 ### Dataset
 
-The source data files were downloaded from the Nature Medicine publication with Raes Lab [ Tito et al. (2024)](https://www.nature.com/articles/s41591-024-02963-2).
+The source data files were downloaded from [ Tito et al. (2024)](https://www.nature.com/articles/s41591-024-02963-2).
 
 ### R Script
 
