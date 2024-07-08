@@ -1,0 +1,677 @@
+,species
+0,Faecalibacterium.prausnitzii
+1,uc_o_Coriobacteriales.unclassified
+2,Odoribacter.laneus
+3,uc_f_[Eubacterium] coprostanoligenes group.unclassified
+4,Anaerotruncus.unclassified
+5,uc_f_Leptotrichiaceae.unclassified
+6,[Ruminococcus] torques group.lactaris
+7,Campylobacter.unclassified
+8,Collinsella.stercoris
+9,Latilactobacillus.unclassified
+10,Lachnospiraceae UCG-009.unclassified
+11,Victivallis.vadensis
+12,Fusobacterium.hwasookii
+13,uc_f_Christensenellaceae.unclassified
+14,Anaerotruncus.colihominis
+15,Intestinimonas.butyriciproducens
+16,Sneathia.sanguinegens
+17,Catenibacterium.unclassified
+18,UCG-009.unclassified
+19,Fastidiosipila.unclassified
+20,Butyricicoccus.unclassified
+21,Bacteroides.salanitronis
+22,Campylobacter.ureolyticus
+23,Anaerostignum.unclassified
+24,[Eubacterium] ventriosum group.unclassified
+25,Ruminococcus.champanellensis
+26,Streptomyces.pratensis
+27,Coriobacteriaceae UCG-003.unclassified
+28,Incertae Sedis.unclassified
+29,Peptostreptococcus.anaerobius
+30,Actinomyces.pacaensis
+31,Alistipes.shahii
+32,Anaerosporobacter.unclassified
+33,Lactobacillus.delbrueckii
+34,Holdemania.unclassified
+35,Gemella.unclassified
+36,Gordonibacter.unclassified
+37,Megasphaera.stantonii
+38,Paraclostridium.bifermentans
+39,Fournierella.unclassified
+40,Enterococcus.unclassified
+41,Eubacterium.callanderi
+42,Klebsiella.unclassified
+43,uc_c_Bacteroidia.unclassified
+44,Succinivibrio.unclassified
+45,Dielma.fastidiosa
+46,Monoglobus.unclassified
+47,Parabacteroides.faecis
+48,Christensenella.unclassified
+49,Lachnospiraceae UCG-001.unclassified
+50,Desulfitibacter.unclassified
+51,Roseburia.hominis
+52,Escherichia-Shigella.coli
+53,Romboutsia.ilealis
+54,Selenomonas.sputigena
+55,Succinivibrio.dextrinosolvens
+56,Prevotella.oris
+57,Bifidobacterium.unclassified
+58,Lactobacillus.acidophilus
+59,uc_f_[Clostridium] methylpentosum group.unclassified
+60,Brevibacterium.iodinum
+61,Streptococcus.intermedius
+62,Ruminiclostridium.unclassified
+63,CHKCI002.unclassified
+64,Merdibacter.unclassified
+65,Anaerococcus.lactolyticus
+66,Epulopiscium.unclassified
+67,Sedimentibacter.unclassified
+68,UC5-1-2E3.unclassified
+69,Shuttleworthia.unclassified
+70,Cloacibacillus.unclassified
+71,uc_f_Hydrogenoanaerobacterium.unclassified
+72,Sutterella.unclassified
+73,Sutterella.parvirubra
+74,Candidatus Soleaferrea.unclassified
+75,Methanobrevibacter.smithii
+76,Lachnospiraceae NK4B4 group.unclassified
+77,Megamonas.unclassified
+78,Blautia.hydrogenotrophica
+79,Roseburia.unclassified
+80,Brachyspira.pilosicoli
+81,uc_o_Rhodospirillales.unclassified
+82,uc_f_Anaerovoracaceae.unclassified
+83,Pygmaiobacter.unclassified
+84,Bacteroides.acidifaciens
+85,Oribacterium.asaccharolyticum
+86,[Eubacterium] nodatum group.infirmum
+87,Lachnospiraceae UCG-004.unclassified
+88,[Eubacterium] xylanophilum group.unclassified
+89,Scardovia.wiggsiae
+90,Intestinimonas.timonensis
+91,Pyramidobacter.unclassified
+92,uc_f_Erysipelatoclostridiaceae.unclassified
+93,Phascolarctobacterium.faecium
+94,Clostridium sensu stricto 1.septicum
+95,Streptococcus.gordonii
+96,Ruminococcus.bromii
+97,Enterococcus.faecium
+98,uc_f_Syntrophomonadaceae.unclassified
+99,[Eubacterium] brachy group.brachy
+100,uc_f_Ethanoligenenaceae.unclassified
+101,uc_f_Enterobacteriaceae.unclassified
+102,Parabacteroides.distasonis
+103,Streptococcus.unclassified
+104,Lachnospiraceae NK4A136 group.unclassified
+105,uc_c_Bacilli.unclassified
+106,Odoribacter.splanchnicus
+107,Slackia.piriformis
+108,Parabacteroides.unclassified
+109,Prevotellaceae Ga6A1 group.unclassified
+110,Alistipes.finegoldii
+111,Brochothrix.thermosphacta
+112,Fenollaria.unclassified
+113,Defluviitaleaceae UCG-011.unclassified
+114,Clostridium sensu stricto 1.celatum
+115,Pseudoflavonifractor.unclassified
+116,Bifidobacterium.pullorum
+117,Fusicatenibacter.unclassified
+118,Alistipes.obesi
+119,Cloacibacillus.evryensis
+120,Alloprevotella.unclassified
+121,Aeriscardovia.unclassified
+122,Barnesiella.unclassified
+123,uc_o_Clostridia vadinBB60 group.unclassified
+124,[Anaerorhabdus] furcosa group.unclassified
+125,Amnipila.unclassified
+126,Methanosarcina.mazei
+127,Lachnospiraceae UCG-010.unclassified
+128,Pediococcus.pentosaceus
+129,CAG-873.unclassified
+130,Lacticaseibacillus.unclassified
+131,Odoribacter.unclassified
+132,NK4A214 group.unclassified
+133,Alloscardovia.omnicolens
+134,Blautia.unclassified
+135,Desulfovibrio.piger
+136,Catenisphaera.unclassified
+137,Brevundimonas.terrae
+138,Coriobacteriaceae UCG-002.unclassified
+139,Lactococcus.raffinolactis
+140,Prevotellaceae NK3B31 group.unclassified
+141,uc_f_Muribaculaceae.unclassified
+142,Enterococcus.gilvus
+143,Bacteroides.coprophilus
+144,Mailhella.unclassified
+145,Anaerovibrio.unclassified
+146,Granulicatella.unclassified
+147,Raoultella.ornithinolytica
+148,Akkermansia.unclassified
+149,Coprococcus.unclassified
+150,Fusobacterium.periodonticum
+151,[Eubacterium] eligens group.eligens
+152,Olsenella.umbonata
+153,Lactobacillus.kefiranofaciens
+154,uc_f_Eggerthellaceae.unclassified
+155,Gordonibacter.pamelaeae
+156,Bilophila.unclassified
+157,Libanicoccus.unclassified
+158,Eikenella.corrodens
+159,Rikenella.unclassified
+160,Sporobacter.unclassified
+161,Pediococcus.acidilactici
+162,Peptoniphilus.lacrimalis
+163,Lachnospiraceae UCG-002.unclassified
+164,Blautia.producta
+165,Tyzzerella.nexilis
+166,Streptococcus.oralis
+167,Lachnoanaerobaculum.unclassified
+168,Burkholderia-Caballeronia-Paraburkholderia.pseudomallei
+169,Peptoniphilus.obesi
+170,Escherichia-Shigella.unclassified
+171,Dorea.unclassified
+172,[Eubacterium] hallii group.unclassified
+173,Phocea.unclassified
+174,[Ruminococcus] gnavus group.gnavus
+175,Cloacibacillus.porcorum
+176,Enterobacter.ludwigii
+177,Caproiciproducens.unclassified
+178,Veillonella.parvula
+179,Ezakiella.unclassified
+180,Aeromonas.salmonicida
+181,Campylobacter.showae
+182,Bacteroides.unclassified
+183,[Ruminococcus] gauvreauii group.gauvreauii
+184,Prevotella.stercorea
+185,Bacteroides.clarus
+186,Mogibacterium.timidum
+187,Blautia.faecis
+188,Novosphingobium.sediminicola
+189,Bacteroides.uniformis
+190,Cryptanaerobacter.unclassified
+191,Actinotignum.schaalii
+192,uc_o_Clostridia UCG-014.unclassified
+193,Aggregatibacter.aphrophilus
+194,uc_o_Proteinivoracales.unclassified
+195,uc_c_Clostridia.unclassified
+196,Alistipes.inops
+197,Pediococcus.inopinatus
+198,Synergistes.jonesii
+199,Hungatella.hathewayi
+200,uc_f_Defluviitaleaceae.unclassified
+201,Bifidobacterium.longum
+202,[Clostridium] innocuum group.unclassified
+203,Morganella.morganii
+204,Centipeda.unclassified
+205,Lachnospiraceae UCG-001.bacterium
+206,Bacteroides.vulgatus
+207,Bifidobacterium.adolescentis
+208,S5-A14a.unclassified
+209,Fructilactobacillus.unclassified
+210,Acidaminococcus.intestini
+211,Prevotella.oralis
+212,Lentilactobacillus.unclassified
+213,Anaeroplasma.unclassified
+214,uc_o_Gastranaerophilales.unclassified
+215,Bifidobacterium.pseudolongum
+216,Phascolarctobacterium.unclassified
+217,Negativicoccus.unclassified
+218,Ruminococcus.callidus
+219,Campylobacter.concisus
+220,Subdoligranulum.unclassified
+221,Corynebacterium.glyciniphilum
+222,Adlercreutzia.equolifaciens
+223,Dialister.unclassified
+224,Methanobrevibacter.oralis
+225,Sanguibacteroides.justesenii
+226,UCG-003.unclassified
+227,Prevotella.disiens
+228,Blautia.hansenii
+229,uc_f_Methanomethylophilaceae.unclassified
+230,Varibaculum.unclassified
+231,Staphylococcus.unclassified
+232,uc_f_Atopobiaceae.unclassified
+233,Desulfovibrio.desulfuricans
+234,Acetanaerobacterium.elongatum
+235,Denitrobacterium.detoxificans
+236,Muribaculum.intestinale
+237,Paraprevotella.unclassified
+238,Holdemania.massiliensis
+239,Prevotella.salivae
+240,Comamonas.aquatica
+241,Staphylococcus.saprophyticus
+242,GCA-900066755.unclassified
+243,Ruminococcus.unclassified
+244,Lachnospiraceae FCS020 group.unclassified
+245,Criibacterium.bergeronii
+246,F0332.unclassified
+247,Senegalimassilia.unclassified
+248,Cetobacterium.unclassified
+249,Lachnospiraceae NK3A20 group.unclassified
+250,Erysipelotrichaceae UCG-003.unclassified
+251,Anaeroglobus.geminatus
+252,Bacillus.unclassified
+253,Streptococcus.peroris
+254,Staphylococcus.aureus
+255,Peptoniphilus.urinimassiliensis
+256,Anaerofustis.stercorihominis
+257,Adlercreutzia.unclassified
+258,[Eubacterium] siraeum group.unclassified
+259,Sarcina.unclassified
+260,Megasphaera.unclassified
+261,Sanguibacteroides.unclassified
+262,Lactobacillus.iners
+263,Carnobacterium.inhibens
+264,Enteroscipio.rubneri
+265,Lactococcus.taiwanensis
+266,Olsenella.scatoligenes
+267,Streptococcus.lutetiensis
+268,Escherichia-Shigella.boydii
+269,Bacteroides.timonensis
+270,Clostridium sensu stricto 1.unclassified
+271,Pseudobutyrivibrio.unclassified
+272,uc_f_Oscillospiraceae.unclassified
+273,Escherichia-Shigella.dysenteriae
+274,Macellibacteroides.unclassified
+275,uc_o_mle1-8.unclassified
+276,Parabacteroides.goldsteinii
+277,Bacteroides.finegoldii
+278,Prevotella.bivia
+279,Megamonas.funiformis
+280,Slackia.unclassified
+281,Candidatus Methanomethylophilus.alvus
+282,Parabacteroides.johnsonii
+283,Asteroleplasma.unclassified
+284,uc_o_WCHB1-41.unclassified
+285,Helicobacter.fennelliae
+286,uc_f_Ruminococcaceae.unclassified
+287,Butyricimonas.virosa
+288,Helicobacter.bilis
+289,Veillonella.unclassified
+290,Peptostreptococcus.unclassified
+291,Paucilactobacillus.unclassified
+292,[Eubacterium] nodatum group.unclassified
+293,Sneathia.amnii
+294,ASF356.unclassified
+295,Succinatimonas.hippei
+296,Murdochiella.asaccharolytica
+297,Cerasicoccus.unclassified
+298,Eubacterium.limosum
+299,Prevotella.timonensis
+300,Megasphaera.elsdenii
+301,Proteus.mirabilis
+302,uc_f_Coriobacteriaceae.unclassified
+303,Flavonifractor.unclassified
+304,Z20.unclassified
+305,Anaeroglobus.unclassified
+306,[Eubacterium] nodatum group.pyruvativorans
+307,uc_f_Pasteurellaceae.unclassified
+308,Candidatus Methanoplasma.unclassified
+309,Roseburia.inulinivorans
+310,Veillonella.magna
+311,Prevotellaceae UCG-004.unclassified
+312,Blautia.caecimuris
+313,Colidextribacter.unclassified
+314,Helicobacter.pullorum
+315,Catenibacillus.unclassified
+316,Porphyromonas.somerae
+317,dgA-11 gut group.unclassified
+318,Peptococcus.niger
+319,Lachnospiraceae AC2044 group.unclassified
+320,Lachnoclostridium.urinimassiliense
+321,[Eubacterium] oxidoreducens group.unclassified
+322,Weissella.cibaria
+323,Erysipelatoclostridium.ramosum
+324,Prevotella.corporis
+325,Blautia.wexlerae
+326,Succiniclasticum.unclassified
+327,Desulfovibrio.unclassified
+328,Streptococcus.agalactiae
+329,Oscillibacter.unclassified
+330,Anaerococcus.mediterraneensis
+331,Paludicola.unclassified
+332,Erysipelotrichaceae UCG-003.bacterium
+333,Methanosphaera.unclassified
+334,Eggerthella.unclassified
+335,Leuconostoc.carnosum
+336,Acidaminococcus.unclassified
+337,Cryptobacterium.curtum
+338,Akkermansia.muciniphila
+339,Prevotella.buccalis
+340,Collinsella.massiliensis
+341,uc_f_Limnochordaceae.unclassified
+342,Family XIII AD3011 group.unclassified
+343,Mobiluncus.curtisii
+344,Escherichia-Shigella.sonnei
+345,Leptotrichia.unclassified
+346,[Ruminococcus] torques group.faecis
+347,Blautia.obeum
+348,Streptococcus.salivarius
+349,Intestinimonas.unclassified
+350,Catenibacillus.scindens
+351,UBA1819.unclassified
+352,Streptococcus.sanguinis
+353,Porphyromonas.unclassified
+354,Clostridium sensu stricto 13.unclassified
+355,Bacteroides.massiliensis
+356,Clostridium sensu stricto 1.butyricum
+357,Coprobacter.unclassified
+358,Terrisporobacter.unclassified
+359,Cellulosilyticum.unclassified
+360,Fusobacterium.nucleatum
+361,Corynebacterium.imitans
+362,Christensenella.massiliensis
+363,Marvinbryantia.unclassified
+364,Negativibacillus.unclassified
+365,uc_f_Prevotellaceae.unclassified
+366,Prevotella_7.unclassified
+367,Lachnospiraceae UCG-003.unclassified
+368,UCG-008.unclassified
+369,Paeniclostridium.sordellii
+370,Roseburia.intestinalis
+371,Dielma.unclassified
+372,Atopobium.unclassified
+373,Citrobacter.amalonaticus
+374,Rothia.dentocariosa
+375,Libanicoccus.massiliensis
+376,Acetanaerobacterium.unclassified
+377,uc_f_Barnesiellaceae.unclassified
+378,Rikenella.microfusus
+379,Anaerostipes.butyraticus
+380,Butyrivibrio.crossotus
+381,Mitsuokella.unclassified
+382,Acidaminococcus.fermentans
+383,Bacteroides.barnesiae
+384,Paraeggerthella.unclassified
+385,Anaerofilum.unclassified
+386,Pseudoramibacter.unclassified
+387,Bacteroides.stercoris
+388,Megasphaera.micronuciformis
+389,Tyzzerella.unclassified
+390,Bacteroides.intestinalis
+391,Lactonifactor.unclassified
+392,Bifidobacterium.bifidum
+393,uc_o_Izemoplasmatales.unclassified
+394,Bacteroides.salyersiae
+395,[Ruminococcus] gnavus group.unclassified
+396,Alistipes.indistinctus
+397,Pseudomonas.aeruginosa
+398,Flavonifractor.plautii
+399,Barnesiella.viscericola
+400,Allobaculum.unclassified
+401,Actinomyces.dentalis
+402,Slackia.exigua
+403,UCG-007.unclassified
+404,[Ruminococcus] torques group.unclassified
+405,Parvimonas.micra
+406,Gardnerella.vaginalis
+407,Candidatus Methanogranum.unclassified
+408,Christensenella.minuta
+409,Lachnospiraceae NC2004 group.unclassified
+410,Atopobium.minutum
+411,Prevotella_9.unclassified
+412,Rikenellaceae RC9 gut group.unclassified
+413,uc_o_RF39.unclassified
+414,Erysipelotrichaceae UCG-006.unclassified
+415,Faecalitalea.cylindroides
+416,Oxalobacter.formigenes
+417,uc_f_Coriobacteriales Incertae Sedis.unclassified
+418,Bacteroides.sartorii
+419,Lachnospira.unclassified
+420,Lactiplantibacillus.unclassified
+421,uc_f_Clostridiaceae.unclassified
+422,Murdochiella.massiliensis
+423,[Eubacterium] hallii group.hallii
+424,[Bacteroides] pectinophilus group.unclassified
+425,Harryflintia.unclassified
+426,Slackia.isoflavoniconvertens
+427,Clostridium sensu stricto 1.perfringens
+428,Dehalobacterium.unclassified
+429,Bordetella.hinzii
+430,Enorma.unclassified
+431,Candidatus Stoquefichus.unclassified
+432,Actinomyces.graevenitzii
+433,uc_f_Butyricicoccaceae.unclassified
+434,Clostridium sensu stricto 1.neonatale
+435,Prevotella.unclassified
+436,uc_o_Lactobacillales.unclassified
+437,Arcobacter.butzleri
+438,Mogibacterium.unclassified
+439,Alistipes.putredinis
+440,Methanomassiliicoccus.unclassified
+441,Family XIII UCG-001.unclassified
+442,Lachnospiraceae ND3007 group.bacterium
+443,Lachnospiraceae NK4A136 group.bacterium
+444,Campylobacter.jejuni
+445,Actinomyces.naeslundii
+446,Tuzzerella.unclassified
+447,uc_f_Peptostreptococcaceae.unclassified
+448,Raoultella.planticola
+449,Coprococcus.comes
+450,Leuconostoc.mesenteroides
+451,Ligilactobacillus.unclassified
+452,Enterorhabdus.unclassified
+453,Solobacterium.moorei
+454,Porphyromonas.uenonis
+455,Holdemanella.unclassified
+456,Turicibacter.unclassified
+457,Lactococcus.lactis
+458,Lachnotalea.unclassified
+459,Coprobacillus.cateniformis
+460,Lactobacillus.johnsonii
+461,Ruminococcus.bicirculans
+462,Syntrophomonas.unclassified
+463,Catenibacterium.mitsuokai
+464,uc_f_UCG-010.unclassified
+465,Parvimonas.unclassified
+466,CAG-352.unclassified
+467,Paraprevotella.xylaniphila
+468,Parvibacter.unclassified
+469,uc_f_Erysipelotrichaceae.unclassified
+470,Dialister.invisus
+471,28-4.unclassified
+472,Actinomyces.gerencseriae
+473,Slackia.equolifaciens
+474,DNF00809.unclassified
+475,CHKCI001.unclassified
+476,Butyricimonas.unclassified
+477,Agathobacter.unclassified
+478,Paraprevotella.clara
+479,Christensenellaceae R-7 group.unclassified
+480,Papillibacter.unclassified
+481,Peptococcus.unclassified
+482,[Eubacterium] fissicatena group.unclassified
+483,Porphyromonas.endodontalis
+484,Corynebacterium.unclassified
+485,Collinsella.aerofaciens
+486,Sellimonas.unclassified
+487,Anaerostipes.unclassified
+488,Leuconostoc.pseudomesenteroides
+489,Syntrophococcus.unclassified
+490,Eisenbergiella.unclassified
+491,Prevotella.nigrescens
+492,Oscillospira.unclassified
+493,Bacteroides.thetaiotaomicron
+494,Leuconostoc.lactis
+495,Streptococcus.anginosus
+496,Faecalicoccus.pleomorphus
+497,Howardella.unclassified
+498,Citrobacter.freundii
+499,Faecalibacterium.unclassified
+500,Peptoniphilus.duerdenii
+501,UCG-004.unclassified
+502,Limosilactobacillus.unclassified
+503,uc_f_Hungateiclostridiaceae.unclassified
+504,Eggerthella.lenta
+505,Parabacteroides.merdae
+506,uc_f_Puniceicoccaceae.unclassified
+507,Lactobacillus.amylovorus
+508,Proteus.vulgaris
+509,Victivallis.unclassified
+510,Streptococcus.dysgalactiae
+511,Streptococcus.gallolyticus
+512,Eggerthia.catenaformis
+513,[Eubacterium] ruminantium group.unclassified
+514,Catabacter.unclassified
+515,Streptococcus.mutans
+516,Frisingicoccus.unclassified
+517,Peptoniphilus.coxii
+518,Veillonella.dispar
+519,Peptoniphilus.koenoeneniae
+520,Prevotellaceae UCG-003.unclassified
+521,Hafnia-Obesumbacterium.alvei
+522,Gordonibacter.urolithinfaciens
+523,Bifidobacterium.breve
+524,Arcanobacterium.unclassified
+525,Raoultibacter.unclassified
+526,Porphyromonas.asaccharolytica
+527,Erysipelatoclostridium.unclassified
+528,Pyramidobacter.piscolens
+529,Anaerostipes.hadrus
+530,Bacteroides.nordii
+531,Colidextribacter.massiliensis
+532,Bacteroides.graminisolvens
+533,Butyricicoccus.pullicaecorum
+534,GCA-900066575.unclassified
+535,Lactobacillus.unclassified
+536,Dorea.formicigenerans
+537,uc_o_Lachnospirales.unclassified
+538,uc_c_Alphaproteobacteria.unclassified
+539,Rothia.mucilaginosa
+540,Coprococcus.eutactus
+541,Pseudomonas.fragi
+542,Allobaculum.stercoricanis
+543,Bosea.unclassified
+544,uc_o_Desulfovibrionales.unclassified
+545,Megasphaera.hexanoica
+546,uc_o_Bacteroidales.unclassified
+547,Bacteroides.caccae
+548,uc_o_Flavobacteriales.unclassified
+549,Leuconostoc.gelidum
+550,uc_o_Erysipelotrichales.unclassified
+551,Corynebacterium.durum
+552,[Eubacterium] siraeum group.siraeum
+553,Actinobacillus.unclassified
+554,Klebsiella.michiganensis
+555,Clostridium sensu stricto 1.baratii
+556,[Eubacterium] nodatum group.sulci
+557,Collinsella.tanakaei
+558,Robinsoniella.peoriensis
+559,Allisonella.unclassified
+560,Stomatobaculum.unclassified
+561,Parasutterella.secunda
+562,Bacteroides.fragilis
+563,Parabacteroides.gordonii
+564,Mogibacterium.pumilum
+565,Olsenella.unclassified
+566,Denitrobacterium.unclassified
+567,Bacteroides.gallinaceum
+568,Weissella.viridescens
+569,Actinomyces.unclassified
+570,UCG-002.unclassified
+571,Dialister.pneumosintes
+572,Prevotella_9.copri
+573,Bacteroides.coprocola
+574,Bifidobacterium.angulatum
+575,uc_f_Victivallaceae.unclassified
+576,Intestinibacter.bartlettii
+577,Lachnospiraceae UCG-007.unclassified
+578,uc_p_Firmicutes.unclassified
+579,Solobacterium.unclassified
+580,Alistipes.onderdonkii
+581,[Eubacterium] brachy group.unclassified
+582,Fusobacterium.varium
+583,Coprobacter.secundus
+584,Bacteroides.rodentium
+585,uc_f_Lachnospiraceae.unclassified
+586,Citrobacter.koseri
+587,[Eubacterium] eligens group.unclassified
+588,Lachnospiraceae FE2018 group.unclassified
+589,Aggregatibacter.unclassified
+590,Hungatella.unclassified
+591,Bifidobacterium.animalis
+592,Coprococcus.catus
+593,Oxalobacter.unclassified
+594,Prevotella.intermedia
+595,Escherichia-Shigella.marmotae
+596,Staphylococcus.equorum
+597,Streptococcus.parasanguinis
+598,Enterococcus.sulfureus
+599,Campylobacter.curvus
+600,Fusobacterium.perfoetens
+601,Fusobacterium.gonidiaformans
+602,Veillonella.ratti
+603,Fusobacterium.mortiferum
+604,Bifidobacterium.catenulatum
+605,Romboutsia.unclassified
+606,Intestinibacter.unclassified
+607,Cuneatibacter.caecimuris
+608,Streptococcus.constellatus
+609,Anaerococcus.vaginalis
+610,Bacteroides.cellulosilyticus
+611,Monoglobus.pectinilyticus
+612,Collinsella.unclassified
+613,Anaerostipes.caccae
+614,Haemophilus.pittmaniae
+615,Blautia.glucerasea
+616,Streptococcus.sobrinus
+617,Bacteroides.plebeius
+618,uc_f_Peptococcaceae.unclassified
+619,Campylobacter.hyointestinalis
+620,uc_f_Veillonellaceae.unclassified
+621,uc_f_Oxalobacteraceae.unclassified
+622,Bacteroides.ovatus
+623,Finegoldia.unclassified
+624,Methanosphaera.stadtmanae
+625,Anaerovorax.unclassified
+626,Sutterella.wadsworthensis
+627,Prevotellaceae UCG-001.unclassified
+628,Clostridium sensu stricto 1.paraputrificum
+629,Frisingicoccus.caecimuris
+630,Alistipes.unclassified
+631,DTU089.unclassified
+632,Megamonas.hypermegale
+633,uc_o_Oscillospirales.unclassified
+634,Fusobacterium.unclassified
+635,Serratia.fonticola
+636,Parasutterella.unclassified
+637,uc_f_vadinBE97.unclassified
+638,Treponema.porcinum
+639,Bacteroides.eggerthii
+640,uc_o_Chloroplast.unclassified
+641,Ruminococcus.flavefaciens
+642,Lawsonella.clevelandensis
+643,Bacteroides.dorei
+644,[Ruminococcus] gauvreauii group.unclassified
+645,Desulfovibrio.fairfieldensis
+646,Prevotella.colorans
+647,Elusimicrobium.unclassified
+648,Lachnospiraceae ND3007 group.unclassified
+649,Bacteroides.fluxus
+650,Haemophilus.parainfluenzae
+651,uc_f_Sutterellaceae.unclassified
+652,Lachnoclostridium.unclassified
+653,Harryflintia.acetispora
+654,Angelakisella.unclassified
+655,Methanobacterium.unclassified
+656,Anaerofustis.unclassified
+657,Faecalitalea.unclassified
+658,HT002.unclassified
+659,Dellaglioa.unclassified
+660,Peptoclostridium.unclassified
+661,CAG-56.unclassified
+662,Fusobacterium.ulcerans
+663,Methanobrevibacter.unclassified
+664,Bacteroides.caecicola
+665,Synergistes.unclassified
+666,[Ruminococcus] torques group.torques
+667,Bacteroides.caecigallinarum
+668,Bifidobacterium.dentium
+669,uc_f_Desulfovibrionaceae.unclassified
+670,[Eubacterium] ventriosum group.ventriosum
+671,Pseudomonas.citronellolis
+672,uc_o_Clostridiales.unclassified
+673,Oribacterium.unclassified
+674,UCG-005.unclassified
+675,Peptoniphilus.grossensis
